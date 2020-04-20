@@ -1,0 +1,113 @@
+.header img {
+  float: left;
+  width: 200px;
+  height: 200px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  font-family: Impact;
+  top: 60px;
+  left: 10px;
+  font-size: 70px;
+  
+}
+
+
+.param1{
+      font-size: 20px;
+      font-family: "Lucida Grande";
+      border: white solid 5px;
+      padding: 10px;
+      margin-top: 100px;
+      margin-left: 200px;
+      margin-right: 200px;
+      
+      
+}
+
+#param2homepage {
+  padding: 50px;
+  font-family: "Lucida Grande";
+  border: white solid;
+  margin-top: 100px;
+  margin-left:200px;
+  width: 500px;
+  heigth: 500px;
+  
+}
+.param3{
+  font-family: "Lucida Grande";
+  
+  padding: 200px;
+  background-color: green;
+}
+.img2{
+  width: 600px;
+  heigth: 600px;
+  margin-left: 500px;
+  margin-top:40px;
+
+}
+#haram3homepage{
+  text-align: right;
+  font-family: Courier;
+  font-size: 50px;
+  margin-top: 200px;
+  margin-bottom:0;
+  
+  
+}
+.param4{
+  font-family: "Lucida Grande";
+  color: white;
+  background-color: blue;
+  margin-bottom: 0;
+  padding: 200px;
+}
+
+h3{
+  
+  font-family: Impact;
+  font-size: 30px;
+  color: blue;
+  text-decoration: underline;
+  
+}
+
+.imageparag img {
+  float: right;
+  width: 300px;
+  height: 300px;
+  margin-bottom: 100px;
+  padding-right: 80px;
+
+}
+.imageparg blockquote {
+  position: relative;
+  font-family: Impact;
+  top: 60px;
+  left: 10px;
+  font-size: 100px;
+  padding: 20px;
+ 
+
+  
+}
+
+a:link {
+	Color: blue;
+}
+
+a:visited {
+	Color: 8c8c9d;
+}
+
+a:hover {
+	color:#F15A51;
+}
+
+body{
+  margin:0;
+}
